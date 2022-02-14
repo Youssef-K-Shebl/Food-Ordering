@@ -35,8 +35,9 @@
 - Delete Food.
 
 ### How to Access The Website:
-**Site:**http://alexrestaurant.epizy.com/
-**Admin Panel:**http://alexrestaurant.epizy.com/admin/
+__Site:__http://alexrestaurant.epizy.com/
+
+__Admin Panel:__http://alexrestaurant.epizy.com/admin/
   - Username = admin
   - Password = admin
 
