@@ -22,23 +22,23 @@
   - Change Order Status.
   - Change Order Infotamtion.
 
-- ##### Manage Category
+- ##### Manage Categorys
   - View All Categories
   - Add New Category.
   - Change Category Data.
   - Delete Category.
 
-  - ##### Manage Food
-  - View All Foods.
-  - Add New Food.
-  - Change Food Data.
-  - Delete Food.
+- ##### Manage Foods
+- View All Foods.
+- Add New Food.
+- Change Food Data.
+- Delete Food.
 
-#### How to Access The Website:
-##### **Site:**http://alexrestaurant.epizy.com/
-##### **Admin Panel:**http://alexrestaurant.epizy.com/admin/
-######  - Username = admin
-######  - Password = admin
+### How to Access The Website:
+  **Site:**http://alexrestaurant.epizy.com/
+  **Admin Panel:**http://alexrestaurant.epizy.com/admin/
+  - Username = admin
+  - Password = admin
 
 
 > ### Thank you so much for reading all this I hope you like the project and please give me your feedback I accept all opinions.
