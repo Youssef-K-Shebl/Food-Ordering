@@ -29,10 +29,10 @@
   - Delete Category.
 
 - ##### Manage Foods
-- View All Foods.
-- Add New Food.
-- Change Food Data.
-- Delete Food.
+  - View All Foods.
+  - Add New Food.
+  - Change Food Data.
+  - Delete Food.
 
 ### How to Access The Website:
 #### Site: <a href="http://alexrestaurant.epizy.com/" target="_blank">Food Ordering Website</a>
