@@ -1,0 +1,158 @@
+/*
+    Author: Youssef Kamel;
+    Theme: Food Order Website Admin;
+    Version: 1.0;
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.tbl-full {
+    width: 100%;
+}
+
+.tbl-30 {
+    width: 30%;
+}
+
+table tr th {
+    border-bottom: 1px solid black;
+    padding: 1%;
+}
+
+table tr td {
+    text-align: center;
+    padding: 1%;
+}
+
+table tr td img {
+    height: 100px;
+    width: 100px;
+}
+
+.btn-primary {
+    background-color: #1e90ff;
+    text-decoration: none;
+    color: white;
+    padding: 1%;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background-color: #3742fa;
+}
+
+.btn-secondary {
+    background-color: #7bed9f;
+    text-decoration: none;
+    color: black;
+    padding: 1%;
+    font-weight: bold;
+}
+
+.btn-secondary:hover {
+    background-color: #2ed573;
+}
+
+.btn-danger {
+    background-color: #ff6b81;
+    text-decoration: none;
+    color: white;
+    padding: 1%;
+    font-weight: bold;
+}
+
+.btn-danger:hover {
+    background-color: #ff4757;
+}
+
+.success {
+    color: #2ed573;
+}
+
+.error {
+    color: #ff4757;
+}
+
+/* Start Menu Styling */
+.menu {
+    border-bottom: 1px solid gray;
+}
+.menu ul {
+    list-style: none;
+}
+
+.menu ul li {
+    display: inline;
+    padding: 1%;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #ff6b81;
+}
+
+.menu ul li a:hover {
+    color: #ff4757;
+}
+
+/* End Menu Styling */
+
+/* Start Main Content Styling */
+
+.main-content {
+    background-color: #f1f2f6;
+    padding: 3% 0;
+}
+
+.main-content .categories {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-column-gap: 13px;
+}
+
+.col-4 {
+    width: 100%;
+    background-color: white;
+    padding: 2%;
+    margin: 10px 0;
+
+}
+
+/* End Main Content Styling */
+
+/* Start Footer Styling */
+
+.footer {
+    background-color: #ff4757;
+    color: white;
+}
+
+/* End Footer Styling */
+
+/* Start Login Styling */
+
+.login {
+    border: 1px solid grey;
+    width: 30%;
+    margin: 10% auto;
+    padding: 2%;
+}
+
+
+/* End Login Styling */
+
