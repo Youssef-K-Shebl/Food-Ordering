@@ -43,4 +43,4 @@
 <br>
 <br>
 
-> ### Thank you so much for reading all this I hope you like the project and please give me your feedback I accept all opinions.
+> ### Thank you so much for reading all this I hope you like the project and please give me your feedback <3.
