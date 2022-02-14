@@ -40,6 +40,6 @@
 #### Admin Panel: <a href="http://alexrestaurant.epizy.com/admin" target="_blank">Admin Panel</a>
   - Username = admin
   - Password = admin
-
+<br>
 
 > ### Thank you so much for reading all this I hope you like the project and please give me your feedback I accept all opinions.
