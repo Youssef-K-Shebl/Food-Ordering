@@ -29,15 +29,15 @@
   - Delete Category.
 
 - ##### Manage Foods
-- View All Foods.
-- Add New Food.
-- Change Food Data.
-- Delete Food.
+  - View All Foods.
+  - Add New Food.
+  - Change Food Data.
+  - Delete Food.
 
 ### How to Access The Website:
-__Site__http://alexrestaurant.epizy.com/
+#### Site: [The Food Ordering Website](http://alexrestaurant.epizy.com/)
 
-__Admin Panel__http://alexrestaurant.epizy.com/admin/
+#### Admin Panel: [The Admin Panal](http://alexrestaurant.epizy.com/admin/)
   - Username = admin
   - Password = admin
 
